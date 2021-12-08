@@ -2,7 +2,7 @@
 //  Item.swift
 //  Todo-Realm
 //
-//  Created by Yilmaz Edis (employee ID: y84185251) on 8.12.2021.
+//  Created by Yilmaz Edis on 8.12.2021.
 //
 
 import Foundation
